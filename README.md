@@ -1,5 +1,11 @@
 ### Hello there 👋 Eu sou o Luciano! 😄
 
+<div align="center">
+  <img align="center" alt="Lulucifer-Hello-There" height="200" style="border-radius:100px;" src="https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-  kenobi.gif">
+</div>
+
+##
+
 - 🔭 Atualmente estou trabalhando com backend e front-end
 - 🌱 Estudando Vue.js, TypeScript, Flask (Python), React Native, Elixir, Docker e Google Cloud
 - 📫 Contate-me no e-mail: lucianogvda02@gmail.com
