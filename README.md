@@ -7,7 +7,7 @@
 ##
 
 - 🔭 Atualmente estou trabalhando com backend e front-end
-- 🌱 Estudando Vue.js, TypeScript, Flask (Python), React Native, Elixir, Docker e Google Cloud
+- 🌱 Estudando Vue.js, TypeScript, Python, Flask, Django, Docker e Google Cloud
 - 📫 Contate-me no e-mail: lucianogvda02@gmail.com
 - 😄 Pronomes: ele/dele
 
