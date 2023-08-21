@@ -7,7 +7,7 @@
 ##
 
 - 🔭 Atualmente estou trabalhando com backend e front-end
-- 📫 Contatos: lucianogvda02@gmail | <a href="www.google.com.br"><img align="center" alt="Lulucifer-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+- 📫 Contatos: lucianogvda02@gmail | <a href="https://www.google.com.br"><img align="center" alt="Lulucifer-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 - 😄 Pronomes: ele/dele
 
 <div align="center">
