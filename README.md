@@ -7,8 +7,7 @@
 ##
 
 - 🔭 Atualmente estou trabalhando com backend e front-end
-- 🌱 Estudando Swift, Kotlin, Kubernetes, Docker e Google Cloud
-- 📫 Contate-me no e-mail: lucianogvda02@gmail.com
+- 📫 Contatos: lucianogvda02@gmail | <img align="center" alt="Lulucifer-Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" url="www.google.com.br">
 - 😄 Pronomes: ele/dele
 
 <div align="center">
