@@ -11,7 +11,7 @@
 - 😄 Pronomes: ele/dele
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianogomes02&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianogomes02&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
